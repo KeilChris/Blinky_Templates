@@ -2,9 +2,9 @@
 
 <package schemaVersion="1.7.54" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Open-CMSIS-Pack/Open-CMSIS-Pack-Spec/v1.7.54/schema/PACK.xsd">
   <vendor>KeilChris</vendor>
-  <name>Solution_templates</name>
+  <name>Solution_Templates</name>
   <description overview="Docs/Overview.md">CMSIS-Pack with CMSIS Solution templates</description>
-  <url></url>
+  <url>https://github.com/KeilChris/Solution_Templates/raw/main/</url>
   <repository type="git">https://github.com/KeilChris/Solution_Templates.git</repository>
   <supportContact>christopher.seidl@arm.com</supportContact>
   <license>LICENSE</license>
@@ -15,7 +15,7 @@
   </licenseSets>
   
   <releases>
-    <release version="1.0.0" date="2025-12-05">
+    <release version="1.0.0" tag="v1.0.0" date="2025-12-05" url="https://github.com/KeilChris/Solution_Templates/releases/download/v1.0.0/KeilChris.Solution_Templates.1.0.0.pack">
       Initial Version containing a blank solution and two templates for blinky applications.
     </release>
   </releases>
